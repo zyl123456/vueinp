@@ -13,10 +13,13 @@
   "keywords": [
     "vueinp"
   ],
-  "author": "zyl123456",
+  "author": "zhengyanling",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zyl123456/vueinp/issues"
   },
-  "homepage": "https://github.com/zyl123456/vueinp#readme"
+  "homepage": "https://github.com/zyl123456/vueinp#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
